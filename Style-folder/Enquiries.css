@@ -1,0 +1,24 @@
+.enquiries{
+    font-weight: bold;
+}
+.image-contacts-info{
+    margin-top: -40px;
+}
+.image-contacts-info h1{
+    font-size: 20px;
+    
+    
+}
+.image-contacts-info div{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.enquiries, .contacts, .email{
+    margin-bottom: 0;
+    text-decoration: underline;
+    font-weight: bold;
+    
+}
+.email{
+    margin-top: 2px;
+}

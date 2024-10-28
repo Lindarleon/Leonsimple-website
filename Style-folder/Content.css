@@ -1,0 +1,31 @@
+body{
+    height: 3000px;
+}
+
+
+.Content-holder{
+    margin-top: 100px;
+    display: flex;
+    vertical-align: center;
+    background-color:  rgb(46, 43, 43);
+}
+
+.First-content-holder{
+    margin-top: 60px;
+    display: block;
+}
+
+.Second-body-content{
+    margin-top: 6px;
+    display: flex;
+    vertical-align: top;
+
+}
+
+.body-content{
+    
+    display: flex;
+    
+    
+    vertical-align: top;
+}

@@ -1,0 +1,50 @@
+.Hearder-holder{
+    padding-top: 10px;
+    display: flex;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 800px;
+    background-color:  rgb(46, 43, 43);
+}
+
+.First-hearder{
+    display: flex;
+    align-items: center;
+    position: fixed;
+}
+
+
+input{
+    margin-left: 8px;
+    border: none;
+    border-radius: 2px;
+    height: 25px;
+    width: 300px;
+    align-items: center;
+}
+
+
+.company-name{
+    border-radius: 160px;
+    background-color: blue;
+    border-style: solid;
+    padding-left: 17px;
+    margin-left: 660px;
+    width: 320px;
+    color: white;
+    font-size: 28px;
+    
+}
+.slogan-div{
+    
+    margin-left: 750px;
+    width: 400px;
+}
+.slogan-div p{
+    text-decoration: underline;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+}

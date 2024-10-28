@@ -1,0 +1,76 @@
+
+img{
+    margin-top: 2px;
+   width: 350px;
+   height: 200px;
+   border-radius: 4px;
+    
+}
+.House-sales{
+    display: flex;
+    vertical-align: top;
+}
+.First-house, .Second-house{
+    border-radius: 6px;
+    margin-left: 9px;
+    padding-left: 7px;
+    padding-top: 103px;
+    background-color: white;
+    width: 100%;
+    height: 300px;
+    
+}
+.Second-house{
+    width: 360px;
+}
+
+.Execution{
+    display: flex;
+    flex-direction: end;
+    margin-top: -99px;
+}
+.lease-button{
+    margin-left: 150px;
+}
+.lease-button div{
+    margin-bottom: 0;
+}
+.Execution button{
+    width: 75px;
+    height: 32px;
+    background-color: rgb(226, 153, 17);
+    font-weight: 1000;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    transition: background-color 0.15s, color 0.15s;
+    cursor: pointer;
+}
+.Execution button:hover{
+    background-color: blue;
+    
+}
+.Execution button:active{
+    padding-left: 3px;
+    background-color: rgb(173, 167, 167);
+    color: white;
+}
+.p-div{
+    margin-bottom: 0;
+    padding-left: 2px;
+    color: white;
+    background-color: black;
+}
+.p-div1{
+    margin-top: 1px;
+    margin-bottom: 0;
+    padding-left: 2px;
+    color: white;
+    background-color: black;
+}
+.Buying-box p{
+    
+    color: white;
+}
+
+
